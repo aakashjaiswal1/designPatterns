@@ -1,4 +1,4 @@
-public class nullDesignPattern {
+ class nullDesignPattern {
     static abstract class Cell{
         String model;
         String company;
